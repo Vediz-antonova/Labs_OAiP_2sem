@@ -1,0 +1,18 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="popularwords/arabianWords.txt">/home/vediz/LabsOAiP/Lab5/task_1/popularwords/arabianWords.txt</file>
+<file alias="popularwords/arabicTest.txt">/home/vediz/LabsOAiP/Lab5/task_1/popularwords/arabicTest.txt</file>
+<file alias="popularwords/belarusianWords.txt">/home/vediz/LabsOAiP/Lab5/task_1/popularwords/belarusianWords.txt</file>
+<file alias="popularwords/belTest.txt">/home/vediz/LabsOAiP/Lab5/task_1/popularwords/belTest.txt</file>
+<file alias="popularwords/chinasesWords.txt">/home/vediz/LabsOAiP/Lab5/task_1/popularwords/chinasesWords.txt</file>
+<file alias="popularwords/chinaseTest.txt">/home/vediz/LabsOAiP/Lab5/task_1/popularwords/chinaseTest.txt</file>
+<file alias="popularwords/deutchWords.txt">/home/vediz/LabsOAiP/Lab5/task_1/popularwords/deutchWords.txt</file>
+<file alias="popularwords/deuTest.txt">/home/vediz/LabsOAiP/Lab5/task_1/popularwords/deuTest.txt</file>
+<file alias="popularwords/englishWords.txt">/home/vediz/LabsOAiP/Lab5/task_1/popularwords/englishWords.txt</file>
+<file alias="popularwords/engTest.txt">/home/vediz/LabsOAiP/Lab5/task_1/popularwords/engTest.txt</file>
+<file alias="popularwords/franceWords.txt">/home/vediz/LabsOAiP/Lab5/task_1/popularwords/franceWords.txt</file>
+<file alias="popularwords/franchTest.txt">/home/vediz/LabsOAiP/Lab5/task_1/popularwords/franchTest.txt</file>
+<file alias="popularwords/herbewTest.txt">/home/vediz/LabsOAiP/Lab5/task_1/popularwords/herbewTest.txt</file>
+<file alias="popularwords/herbewWords.txt">/home/vediz/LabsOAiP/Lab5/task_1/popularwords/herbewWords.txt</file>
+</qresource>
+</RCC>
